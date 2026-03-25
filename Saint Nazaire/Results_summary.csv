@@ -1,0 +1,20 @@
+Number of Gateways:,Euclidean,Propagation-Aware 
+25 Nodes,3,3
+50 Nodes,5,3
+100 Nodes,2,3
+150 Nodes,3,3
+200 Nodes,4,4
+,,
+Energy Consumption: [J/day],Euclidean,Propagation-Aware 
+25 Nodes,12.15,11.68
+50 Nodes,13.27,13.2
+100 Nodes,19.5,13.24
+150 Nodes,13.71,13.25
+200 Nodes,14.94,15
+,,
+Up Link Delivery Ratio [%]: ,Euclidean,Propagation-Aware 
+25 Nodes,100,100
+50 Nodes,100,100
+100 Nodes,99.14,100
+150 Nodes,100,100
+200 Nodes,100,100
