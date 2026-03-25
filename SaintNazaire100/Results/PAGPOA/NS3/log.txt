@@ -1,0 +1,743 @@
+=== Starting LoRaWAN simulation with ENU coordinates ===
+✓ Channel setup complete
+Placed end device 0 at ENU: x=0.0000, y=0.0000, z=2.0000
+Placed end device 1 at ENU: x=9.7172, y=-20.6041, z=2.1200
+Placed end device 2 at ENU: x=19.4345, y=-41.2083, z=2.2375
+Placed end device 3 at ENU: x=29.1517, y=-61.8124, z=2.3526
+Placed end device 4 at ENU: x=38.8690, y=-82.4165, z=2.4653
+Placed end device 5 at ENU: x=48.5862, y=-103.0207, z=2.5755
+Placed end device 6 at ENU: x=58.3035, y=-123.6248, z=2.6832
+Placed end device 7 at ENU: x=68.0207, y=-144.2289, z=2.7885
+Placed end device 8 at ENU: x=77.7380, y=-164.8331, z=2.8913
+Placed end device 9 at ENU: x=87.4552, y=-185.4372, z=2.9917
+Placed end device 10 at ENU: x=97.1725, y=-206.0413, z=3.0897
+Placed end device 11 at ENU: x=106.8897, y=-226.6455, z=3.1852
+Placed end device 12 at ENU: x=116.6070, y=-247.2496, z=3.2782
+Placed end device 13 at ENU: x=126.3242, y=-267.8537, z=3.3688
+Placed end device 14 at ENU: x=136.0415, y=-288.4579, z=3.4570
+Placed end device 15 at ENU: x=145.7587, y=-309.0620, z=3.5427
+Placed end device 16 at ENU: x=155.4760, y=-329.6661, z=3.6260
+Placed end device 17 at ENU: x=165.1932, y=-350.2703, z=3.7068
+Placed end device 18 at ENU: x=174.9105, y=-370.8744, z=3.7851
+Placed end device 19 at ENU: x=184.6277, y=-391.4785, z=3.8610
+Placed end device 20 at ENU: x=194.3450, y=-412.0827, z=3.9345
+Placed end device 21 at ENU: x=204.0622, y=-432.6868, z=4.0055
+Placed end device 22 at ENU: x=213.7795, y=-453.2909, z=4.0741
+Placed end device 23 at ENU: x=223.4967, y=-473.8951, z=4.1402
+Placed end device 24 at ENU: x=233.2140, y=-494.4992, z=4.2039
+Placed end device 25 at ENU: x=244.0486, y=-516.1672, z=4.2651
+Placed end device 26 at ENU: x=258.2351, y=-541.0270, z=4.3238
+Placed end device 27 at ENU: x=272.4216, y=-565.8867, z=4.3802
+Placed end device 28 at ENU: x=286.6081, y=-590.7464, z=4.4340
+Placed end device 29 at ENU: x=300.7946, y=-615.6062, z=4.4855
+Placed end device 30 at ENU: x=314.9811, y=-640.4659, z=4.5344
+Placed end device 31 at ENU: x=329.1676, y=-665.3257, z=4.5810
+Placed end device 32 at ENU: x=343.3541, y=-690.1854, z=4.6250
+Placed end device 33 at ENU: x=357.5406, y=-715.0452, z=4.6667
+Placed end device 34 at ENU: x=371.7271, y=-739.9049, z=4.7058
+Placed end device 35 at ENU: x=385.9136, y=-764.7646, z=4.7426
+Placed end device 36 at ENU: x=400.1001, y=-789.6244, z=4.7769
+Placed end device 37 at ENU: x=414.2866, y=-814.4841, z=4.8087
+Placed end device 38 at ENU: x=428.4731, y=-839.3439, z=4.8381
+Placed end device 39 at ENU: x=442.6597, y=-864.2036, z=4.8650
+Placed end device 40 at ENU: x=456.8462, y=-889.0633, z=4.8895
+Placed end device 41 at ENU: x=471.0327, y=-913.9231, z=4.9115
+Placed end device 42 at ENU: x=485.2192, y=-938.7828, z=4.9311
+Placed end device 43 at ENU: x=499.4057, y=-963.6426, z=4.9483
+Placed end device 44 at ENU: x=513.5922, y=-988.5023, z=4.9630
+Placed end device 45 at ENU: x=527.7787, y=-1013.3620, z=4.9752
+Placed end device 46 at ENU: x=541.9652, y=-1038.2218, z=4.9850
+Placed end device 47 at ENU: x=556.1517, y=-1063.0815, z=4.9923
+Placed end device 48 at ENU: x=570.3382, y=-1087.9413, z=4.9972
+Placed end device 49 at ENU: x=584.5247, y=-1112.8010, z=4.9997
+Placed end device 50 at ENU: x=597.7336, y=-1140.3377, z=4.9997
+Placed end device 51 at ENU: x=609.9648, y=-1170.5512, z=4.9972
+Placed end device 52 at ENU: x=622.1960, y=-1200.7648, z=4.9923
+Placed end device 53 at ENU: x=634.4272, y=-1230.9784, z=4.9850
+Placed end device 54 at ENU: x=646.6584, y=-1261.1920, z=4.9752
+Placed end device 55 at ENU: x=658.8896, y=-1291.4055, z=4.9630
+Placed end device 56 at ENU: x=671.1208, y=-1321.6191, z=4.9483
+Placed end device 57 at ENU: x=683.3520, y=-1351.8327, z=4.9311
+Placed end device 58 at ENU: x=695.5832, y=-1382.0462, z=4.9115
+Placed end device 59 at ENU: x=707.8144, y=-1412.2598, z=4.8895
+Placed end device 60 at ENU: x=720.0456, y=-1442.4734, z=4.8650
+Placed end device 61 at ENU: x=732.2769, y=-1472.6869, z=4.8381
+Placed end device 62 at ENU: x=744.5081, y=-1502.9005, z=4.8087
+Placed end device 63 at ENU: x=756.7393, y=-1533.1141, z=4.7769
+Placed end device 64 at ENU: x=768.9705, y=-1563.3277, z=4.7426
+Placed end device 65 at ENU: x=781.2017, y=-1593.5412, z=4.7058
+Placed end device 66 at ENU: x=793.4329, y=-1623.7548, z=4.6667
+Placed end device 67 at ENU: x=805.6641, y=-1653.9684, z=4.6250
+Placed end device 68 at ENU: x=817.8953, y=-1684.1819, z=4.5810
+Placed end device 69 at ENU: x=830.1265, y=-1714.3955, z=4.5344
+Placed end device 70 at ENU: x=842.3577, y=-1744.6091, z=4.4855
+Placed end device 71 at ENU: x=854.5889, y=-1774.8227, z=4.4340
+Placed end device 72 at ENU: x=866.8201, y=-1805.0362, z=4.3802
+Placed end device 73 at ENU: x=879.0513, y=-1835.2498, z=4.3238
+Placed end device 74 at ENU: x=891.2825, y=-1865.4634, z=4.2651
+Placed end device 75 at ENU: x=899.0128, y=-1894.7784, z=4.2039
+Placed end device 76 at ENU: x=905.2426, y=-1923.7939, z=4.1402
+Placed end device 77 at ENU: x=911.4725, y=-1952.8094, z=4.0741
+Placed end device 78 at ENU: x=917.7024, y=-1981.8249, z=4.0055
+Placed end device 79 at ENU: x=923.9322, y=-2010.8404, z=3.9345
+Placed end device 80 at ENU: x=930.1621, y=-2039.8560, z=3.8610
+Placed end device 81 at ENU: x=936.3920, y=-2068.8715, z=3.7851
+Placed end device 82 at ENU: x=942.6219, y=-2097.8870, z=3.7068
+Placed end device 83 at ENU: x=948.8517, y=-2126.9025, z=3.6260
+Placed end device 84 at ENU: x=955.0816, y=-2155.9180, z=3.5427
+Placed end device 85 at ENU: x=961.3115, y=-2184.9335, z=3.4570
+Placed end device 86 at ENU: x=967.5414, y=-2213.9490, z=3.3688
+Placed end device 87 at ENU: x=973.7712, y=-2242.9645, z=3.2782
+Placed end device 88 at ENU: x=980.0011, y=-2271.9800, z=3.1852
+Placed end device 89 at ENU: x=986.2310, y=-2300.9956, z=3.0897
+Placed end device 90 at ENU: x=992.4609, y=-2330.0111, z=2.9917
+Placed end device 91 at ENU: x=998.6907, y=-2359.0266, z=2.8913
+Placed end device 92 at ENU: x=1004.9206, y=-2388.0421, z=2.7885
+Placed end device 93 at ENU: x=1011.1505, y=-2417.0576, z=2.6832
+Placed end device 94 at ENU: x=1017.3804, y=-2446.0731, z=2.5755
+Placed end device 95 at ENU: x=1023.6102, y=-2475.0886, z=2.4653
+Placed end device 96 at ENU: x=1029.8401, y=-2504.1041, z=2.3526
+Placed end device 97 at ENU: x=1036.0700, y=-2533.1196, z=2.2375
+Placed end device 98 at ENU: x=1042.2999, y=-2562.1352, z=2.1200
+Placed end device 99 at ENU: x=1048.5297, y=-2591.1507, z=2.0000
+Placed gateway 0 at 163.7:-338.6:6.5
+Placed gateway 1 at 610.5:-1206:6.5
+Placed gateway 2 at 955.4:-2171:6.5
+Placed network server at 173:-355.8:6.5
+Mobility installed - positions assigned!
+Computing CORRECT distances to gateway...
+Node 0 ENU(0.00,0.00,2.00) → GW0 distance: 376.1m
+Node 1 ENU(9.72,-20.60,2.12) → GW0 distance: 353.3m
+Node 2 ENU(19.43,-41.21,2.24) → GW0 distance: 330.6m
+Node 3 ENU(29.15,-61.81,2.35) → GW0 distance: 307.8m
+Node 4 ENU(38.87,-82.42,2.47) → GW0 distance: 285.0m
+Node 5 ENU(48.59,-103.02,2.58) → GW0 distance: 262.2m
+Node 6 ENU(58.30,-123.62,2.68) → GW0 distance: 239.4m
+Node 7 ENU(68.02,-144.23,2.79) → GW0 distance: 216.7m
+Node 8 ENU(77.74,-164.83,2.89) → GW0 distance: 193.9m
+Node 9 ENU(87.46,-185.44,2.99) → GW0 distance: 171.1m
+Node 10 ENU(97.17,-206.04,3.09) → GW0 distance: 148.4m
+Node 11 ENU(106.89,-226.65,3.19) → GW0 distance: 125.6m
+Node 12 ENU(116.61,-247.25,3.28) → GW0 distance: 102.8m
+Node 13 ENU(126.32,-267.85,3.37) → GW0 distance: 80.1m
+Node 14 ENU(136.04,-288.46,3.46) → GW0 distance: 57.3m
+Node 15 ENU(145.76,-309.06,3.54) → GW0 distance: 34.7m
+Node 16 ENU(155.48,-329.67,3.63) → GW0 distance: 12.5m
+Node 17 ENU(165.19,-350.27,3.71) → GW0 distance: 12.1m
+Node 18 ENU(174.91,-370.87,3.79) → GW0 distance: 34.3m
+Node 19 ENU(184.63,-391.48,3.86) → GW0 distance: 56.9m
+Node 20 ENU(194.34,-412.08,3.93) → GW0 distance: 79.7m
+Node 21 ENU(204.06,-432.69,4.01) → GW0 distance: 102.4m
+Node 22 ENU(213.78,-453.29,4.07) → GW0 distance: 125.2m
+Node 23 ENU(223.50,-473.90,4.14) → GW0 distance: 147.9m
+Node 24 ENU(233.21,-494.50,4.20) → GW0 distance: 170.7m
+Node 25 ENU(244.05,-516.17,4.27) → GW0 distance: 194.9m
+Node 26 ENU(258.24,-541.03,4.32) → GW0 distance: 223.4m
+Node 27 ENU(272.42,-565.89,4.38) → GW0 distance: 252.0m
+Node 28 ENU(286.61,-590.75,4.43) → GW0 distance: 280.5m
+Node 29 ENU(300.79,-615.61,4.49) → GW0 distance: 309.1m
+Node 30 ENU(314.98,-640.47,4.53) → GW0 distance: 337.7m
+Node 31 ENU(329.17,-665.33,4.58) → GW0 distance: 366.2m
+Node 32 ENU(343.35,-690.19,4.63) → GW0 distance: 394.8m
+Node 33 ENU(357.54,-715.05,4.67) → GW0 distance: 423.4m
+Node 34 ENU(371.73,-739.90,4.71) → GW0 distance: 452.0m
+Node 35 ENU(385.91,-764.76,4.74) → GW0 distance: 480.6m
+Node 36 ENU(400.10,-789.62,4.78) → GW0 distance: 509.2m
+Node 37 ENU(414.29,-814.48,4.81) → GW0 distance: 537.8m
+Node 38 ENU(428.47,-839.34,4.84) → GW0 distance: 566.4m
+Node 39 ENU(442.66,-864.20,4.87) → GW0 distance: 595.1m
+Node 40 ENU(456.85,-889.06,4.89) → GW0 distance: 623.7m
+Node 41 ENU(471.03,-913.92,4.91) → GW0 distance: 652.3m
+Node 42 ENU(485.22,-938.78,4.93) → GW0 distance: 680.9m
+Node 43 ENU(499.41,-963.64,4.95) → GW0 distance: 709.5m
+Node 44 ENU(513.59,-988.50,4.96) → GW0 distance: 738.1m
+Node 45 ENU(527.78,-1013.36,4.98) → GW0 distance: 766.7m
+Node 46 ENU(541.97,-1038.22,4.99) → GW0 distance: 795.3m
+Node 47 ENU(556.15,-1063.08,4.99) → GW0 distance: 824.0m
+Node 48 ENU(570.34,-1087.94,5.00) → GW0 distance: 852.6m
+Node 49 ENU(584.52,-1112.80,5.00) → GW0 distance: 881.2m
+Node 50 ENU(597.73,-1140.34,5.00) → GW0 distance: 911.7m
+Node 51 ENU(609.96,-1170.55,5.00) → GW0 distance: 944.1m
+Node 52 ENU(622.20,-1200.76,4.99) → GW0 distance: 976.5m
+Node 53 ENU(634.43,-1230.98,4.99) → GW0 distance: 1008.9m
+Node 54 ENU(646.66,-1261.19,4.98) → GW0 distance: 1041.4m
+Node 55 ENU(658.89,-1291.41,4.96) → GW0 distance: 1073.8m
+Node 56 ENU(671.12,-1321.62,4.95) → GW0 distance: 1106.3m
+Node 57 ENU(683.35,-1351.83,4.93) → GW0 distance: 1138.7m
+Node 58 ENU(695.58,-1382.05,4.91) → GW0 distance: 1171.2m
+Node 59 ENU(707.81,-1412.26,4.89) → GW0 distance: 1203.7m
+Node 60 ENU(720.05,-1442.47,4.87) → GW0 distance: 1236.2m
+Node 61 ENU(732.28,-1472.69,4.84) → GW0 distance: 1268.6m
+Node 62 ENU(744.51,-1502.90,4.81) → GW0 distance: 1301.1m
+Node 63 ENU(756.74,-1533.11,4.78) → GW0 distance: 1333.6m
+Node 64 ENU(768.97,-1563.33,4.74) → GW0 distance: 1366.1m
+Node 65 ENU(781.20,-1593.54,4.71) → GW0 distance: 1398.6m
+Node 66 ENU(793.43,-1623.75,4.67) → GW0 distance: 1431.2m
+Node 67 ENU(805.66,-1653.97,4.63) → GW0 distance: 1463.7m
+Node 68 ENU(817.90,-1684.18,4.58) → GW0 distance: 1496.2m
+Node 69 ENU(830.13,-1714.40,4.53) → GW0 distance: 1528.7m
+Node 70 ENU(842.36,-1744.61,4.49) → GW0 distance: 1561.2m
+Node 71 ENU(854.59,-1774.82,4.43) → GW0 distance: 1593.8m
+Node 72 ENU(866.82,-1805.04,4.38) → GW0 distance: 1626.3m
+Node 73 ENU(879.05,-1835.25,4.32) → GW0 distance: 1658.8m
+Node 74 ENU(891.28,-1865.46,4.27) → GW0 distance: 1691.4m
+Node 75 ENU(899.01,-1894.78,4.20) → GW0 distance: 1721.2m
+Node 76 ENU(905.24,-1923.79,4.14) → GW0 distance: 1750.1m
+Node 77 ENU(911.47,-1952.81,4.07) → GW0 distance: 1779.0m
+Node 78 ENU(917.70,-1981.82,4.01) → GW0 distance: 1808.0m
+Node 79 ENU(923.93,-2010.84,3.93) → GW0 distance: 1836.9m
+Node 80 ENU(930.16,-2039.86,3.86) → GW0 distance: 1865.9m
+Node 81 ENU(936.39,-2068.87,3.79) → GW0 distance: 1895.0m
+Node 82 ENU(942.62,-2097.89,3.71) → GW0 distance: 1924.0m
+Node 83 ENU(948.85,-2126.90,3.63) → GW0 distance: 1953.1m
+Node 84 ENU(955.08,-2155.92,3.54) → GW0 distance: 1982.2m
+Node 85 ENU(961.31,-2184.93,3.46) → GW0 distance: 2011.3m
+Node 86 ENU(967.54,-2213.95,3.37) → GW0 distance: 2040.4m
+Node 87 ENU(973.77,-2242.96,3.28) → GW0 distance: 2069.5m
+Node 88 ENU(980.00,-2271.98,3.19) → GW0 distance: 2098.6m
+Node 89 ENU(986.23,-2301.00,3.09) → GW0 distance: 2127.8m
+Node 90 ENU(992.46,-2330.01,2.99) → GW0 distance: 2157.0m
+Node 91 ENU(998.69,-2359.03,2.89) → GW0 distance: 2186.2m
+Node 92 ENU(1004.92,-2388.04,2.79) → GW0 distance: 2215.4m
+Node 93 ENU(1011.15,-2417.06,2.68) → GW0 distance: 2244.6m
+Node 94 ENU(1017.38,-2446.07,2.58) → GW0 distance: 2273.8m
+Node 95 ENU(1023.61,-2475.09,2.47) → GW0 distance: 2303.1m
+Node 96 ENU(1029.84,-2504.10,2.35) → GW0 distance: 2332.3m
+Node 97 ENU(1036.07,-2533.12,2.24) → GW0 distance: 2361.6m
+Node 98 ENU(1042.30,-2562.14,2.12) → GW0 distance: 2390.8m
+Node 99 ENU(1048.53,-2591.15,2.00) → GW0 distance: 2420.1m
+Node 0 ENU(0.00,0.00,2.00) → GW1 distance: 1351.4m
+Node 1 ENU(9.72,-20.60,2.12) → GW1 distance: 1328.6m
+Node 2 ENU(19.43,-41.21,2.24) → GW1 distance: 1305.9m
+Node 3 ENU(29.15,-61.81,2.35) → GW1 distance: 1283.1m
+Node 4 ENU(38.87,-82.42,2.47) → GW1 distance: 1260.3m
+Node 5 ENU(48.59,-103.02,2.58) → GW1 distance: 1237.6m
+Node 6 ENU(58.30,-123.62,2.68) → GW1 distance: 1214.8m
+Node 7 ENU(68.02,-144.23,2.79) → GW1 distance: 1192.0m
+Node 8 ENU(77.74,-164.83,2.89) → GW1 distance: 1169.3m
+Node 9 ENU(87.46,-185.44,2.99) → GW1 distance: 1146.5m
+Node 10 ENU(97.17,-206.04,3.09) → GW1 distance: 1123.7m
+Node 11 ENU(106.89,-226.65,3.19) → GW1 distance: 1101.0m
+Node 12 ENU(116.61,-247.25,3.28) → GW1 distance: 1078.2m
+Node 13 ENU(126.32,-267.85,3.37) → GW1 distance: 1055.4m
+Node 14 ENU(136.04,-288.46,3.46) → GW1 distance: 1032.7m
+Node 15 ENU(145.76,-309.06,3.54) → GW1 distance: 1009.9m
+Node 16 ENU(155.48,-329.67,3.63) → GW1 distance: 987.1m
+Node 17 ENU(165.19,-350.27,3.71) → GW1 distance: 964.4m
+Node 18 ENU(174.91,-370.87,3.79) → GW1 distance: 941.6m
+Node 19 ENU(184.63,-391.48,3.86) → GW1 distance: 918.8m
+Node 20 ENU(194.34,-412.08,3.93) → GW1 distance: 896.1m
+Node 21 ENU(204.06,-432.69,4.01) → GW1 distance: 873.3m
+Node 22 ENU(213.78,-453.29,4.07) → GW1 distance: 850.6m
+Node 23 ENU(223.50,-473.90,4.14) → GW1 distance: 827.8m
+Node 24 ENU(233.21,-494.50,4.20) → GW1 distance: 805.0m
+Node 25 ENU(244.05,-516.17,4.27) → GW1 distance: 780.8m
+Node 26 ENU(258.24,-541.03,4.32) → GW1 distance: 752.2m
+Node 27 ENU(272.42,-565.89,4.38) → GW1 distance: 723.6m
+Node 28 ENU(286.61,-590.75,4.43) → GW1 distance: 695.0m
+Node 29 ENU(300.79,-615.61,4.49) → GW1 distance: 666.4m
+Node 30 ENU(314.98,-640.47,4.53) → GW1 distance: 637.8m
+Node 31 ENU(329.17,-665.33,4.58) → GW1 distance: 609.2m
+Node 32 ENU(343.35,-690.19,4.63) → GW1 distance: 580.6m
+Node 33 ENU(357.54,-715.05,4.67) → GW1 distance: 552.0m
+Node 34 ENU(371.73,-739.90,4.71) → GW1 distance: 523.4m
+Node 35 ENU(385.91,-764.76,4.74) → GW1 distance: 494.8m
+Node 36 ENU(400.10,-789.62,4.78) → GW1 distance: 466.2m
+Node 37 ENU(414.29,-814.48,4.81) → GW1 distance: 437.6m
+Node 38 ENU(428.47,-839.34,4.84) → GW1 distance: 409.0m
+Node 39 ENU(442.66,-864.20,4.87) → GW1 distance: 380.5m
+Node 40 ENU(456.85,-889.06,4.89) → GW1 distance: 351.9m
+Node 41 ENU(471.03,-913.92,4.91) → GW1 distance: 323.4m
+Node 42 ENU(485.22,-938.78,4.93) → GW1 distance: 294.8m
+Node 43 ENU(499.41,-963.64,4.95) → GW1 distance: 266.3m
+Node 44 ENU(513.59,-988.50,4.96) → GW1 distance: 237.8m
+Node 45 ENU(527.78,-1013.36,4.98) → GW1 distance: 209.3m
+Node 46 ENU(541.97,-1038.22,4.99) → GW1 distance: 180.9m
+Node 47 ENU(556.15,-1063.08,4.99) → GW1 distance: 152.6m
+Node 48 ENU(570.34,-1087.94,5.00) → GW1 distance: 124.4m
+Node 49 ENU(584.52,-1112.80,5.00) → GW1 distance: 96.4m
+Node 50 ENU(597.73,-1140.34,5.00) → GW1 distance: 66.6m
+Node 51 ENU(609.96,-1170.55,5.00) → GW1 distance: 35.1m
+Node 52 ENU(622.20,-1200.76,4.99) → GW1 distance: 12.7m
+Node 53 ENU(634.43,-1230.98,4.99) → GW1 distance: 34.9m
+Node 54 ENU(646.66,-1261.19,4.98) → GW1 distance: 66.3m
+Node 55 ENU(658.89,-1291.41,4.96) → GW1 distance: 98.5m
+Node 56 ENU(671.12,-1321.62,4.95) → GW1 distance: 130.9m
+Node 57 ENU(683.35,-1351.83,4.93) → GW1 distance: 163.3m
+Node 58 ENU(695.58,-1382.05,4.91) → GW1 distance: 195.8m
+Node 59 ENU(707.81,-1412.26,4.89) → GW1 distance: 228.4m
+Node 60 ENU(720.05,-1442.47,4.87) → GW1 distance: 260.9m
+Node 61 ENU(732.28,-1472.69,4.84) → GW1 distance: 293.5m
+Node 62 ENU(744.51,-1502.90,4.81) → GW1 distance: 326.1m
+Node 63 ENU(756.74,-1533.11,4.78) → GW1 distance: 358.6m
+Node 64 ENU(768.97,-1563.33,4.74) → GW1 distance: 391.2m
+Node 65 ENU(781.20,-1593.54,4.71) → GW1 distance: 423.8m
+Node 66 ENU(793.43,-1623.75,4.67) → GW1 distance: 456.4m
+Node 67 ENU(805.66,-1653.97,4.63) → GW1 distance: 489.0m
+Node 68 ENU(817.90,-1684.18,4.58) → GW1 distance: 521.5m
+Node 69 ENU(830.13,-1714.40,4.53) → GW1 distance: 554.1m
+Node 70 ENU(842.36,-1744.61,4.49) → GW1 distance: 586.7m
+Node 71 ENU(854.59,-1774.82,4.43) → GW1 distance: 619.3m
+Node 72 ENU(866.82,-1805.04,4.38) → GW1 distance: 651.9m
+Node 73 ENU(879.05,-1835.25,4.32) → GW1 distance: 684.5m
+Node 74 ENU(891.28,-1865.46,4.27) → GW1 distance: 717.1m
+Node 75 ENU(899.01,-1894.78,4.20) → GW1 distance: 747.1m
+Node 76 ENU(905.24,-1923.79,4.14) → GW1 distance: 776.3m
+Node 77 ENU(911.47,-1952.81,4.07) → GW1 distance: 805.5m
+Node 78 ENU(917.70,-1981.82,4.01) → GW1 distance: 834.8m
+Node 79 ENU(923.93,-2010.84,3.93) → GW1 distance: 864.0m
+Node 80 ENU(930.16,-2039.86,3.86) → GW1 distance: 893.4m
+Node 81 ENU(936.39,-2068.87,3.79) → GW1 distance: 922.7m
+Node 82 ENU(942.62,-2097.89,3.71) → GW1 distance: 952.0m
+Node 83 ENU(948.85,-2126.90,3.63) → GW1 distance: 981.4m
+Node 84 ENU(955.08,-2155.92,3.54) → GW1 distance: 1010.8m
+Node 85 ENU(961.31,-2184.93,3.46) → GW1 distance: 1040.2m
+Node 86 ENU(967.54,-2213.95,3.37) → GW1 distance: 1069.6m
+Node 87 ENU(973.77,-2242.96,3.28) → GW1 distance: 1099.1m
+Node 88 ENU(980.00,-2271.98,3.19) → GW1 distance: 1128.5m
+Node 89 ENU(986.23,-2301.00,3.09) → GW1 distance: 1158.0m
+Node 90 ENU(992.46,-2330.01,2.99) → GW1 distance: 1187.5m
+Node 91 ENU(998.69,-2359.03,2.89) → GW1 distance: 1217.0m
+Node 92 ENU(1004.92,-2388.04,2.79) → GW1 distance: 1246.4m
+Node 93 ENU(1011.15,-2417.06,2.68) → GW1 distance: 1275.9m
+Node 94 ENU(1017.38,-2446.07,2.58) → GW1 distance: 1305.5m
+Node 95 ENU(1023.61,-2475.09,2.47) → GW1 distance: 1335.0m
+Node 96 ENU(1029.84,-2504.10,2.35) → GW1 distance: 1364.5m
+Node 97 ENU(1036.07,-2533.12,2.24) → GW1 distance: 1394.0m
+Node 98 ENU(1042.30,-2562.14,2.12) → GW1 distance: 1423.6m
+Node 99 ENU(1048.53,-2591.15,2.00) → GW1 distance: 1453.1m
+Node 0 ENU(0.00,0.00,2.00) → GW2 distance: 2371.7m
+Node 1 ENU(9.72,-20.60,2.12) → GW2 distance: 2348.9m
+Node 2 ENU(19.43,-41.21,2.24) → GW2 distance: 2326.1m
+Node 3 ENU(29.15,-61.81,2.35) → GW2 distance: 2303.3m
+Node 4 ENU(38.87,-82.42,2.47) → GW2 distance: 2280.6m
+Node 5 ENU(48.59,-103.02,2.58) → GW2 distance: 2257.8m
+Node 6 ENU(58.30,-123.62,2.68) → GW2 distance: 2235.0m
+Node 7 ENU(68.02,-144.23,2.79) → GW2 distance: 2212.3m
+Node 8 ENU(77.74,-164.83,2.89) → GW2 distance: 2189.5m
+Node 9 ENU(87.46,-185.44,2.99) → GW2 distance: 2166.7m
+Node 10 ENU(97.17,-206.04,3.09) → GW2 distance: 2143.9m
+Node 11 ENU(106.89,-226.65,3.19) → GW2 distance: 2121.2m
+Node 12 ENU(116.61,-247.25,3.28) → GW2 distance: 2098.4m
+Node 13 ENU(126.32,-267.85,3.37) → GW2 distance: 2075.6m
+Node 14 ENU(136.04,-288.46,3.46) → GW2 distance: 2052.9m
+Node 15 ENU(145.76,-309.06,3.54) → GW2 distance: 2030.1m
+Node 16 ENU(155.48,-329.67,3.63) → GW2 distance: 2007.3m
+Node 17 ENU(165.19,-350.27,3.71) → GW2 distance: 1984.5m
+Node 18 ENU(174.91,-370.87,3.79) → GW2 distance: 1961.8m
+Node 19 ENU(184.63,-391.48,3.86) → GW2 distance: 1939.0m
+Node 20 ENU(194.34,-412.08,3.93) → GW2 distance: 1916.2m
+Node 21 ENU(204.06,-432.69,4.01) → GW2 distance: 1893.5m
+Node 22 ENU(213.78,-453.29,4.07) → GW2 distance: 1870.7m
+Node 23 ENU(223.50,-473.90,4.14) → GW2 distance: 1847.9m
+Node 24 ENU(233.21,-494.50,4.20) → GW2 distance: 1825.2m
+Node 25 ENU(244.05,-516.17,4.27) → GW2 distance: 1801.0m
+Node 26 ENU(258.24,-541.03,4.32) → GW2 distance: 1772.5m
+Node 27 ENU(272.42,-565.89,4.38) → GW2 distance: 1744.1m
+Node 28 ENU(286.61,-590.75,4.43) → GW2 distance: 1715.7m
+Node 29 ENU(300.79,-615.61,4.49) → GW2 distance: 1687.3m
+Node 30 ENU(314.98,-640.47,4.53) → GW2 distance: 1658.8m
+Node 31 ENU(329.17,-665.33,4.58) → GW2 distance: 1630.4m
+Node 32 ENU(343.35,-690.19,4.63) → GW2 distance: 1602.0m
+Node 33 ENU(357.54,-715.05,4.67) → GW2 distance: 1573.7m
+Node 34 ENU(371.73,-739.90,4.71) → GW2 distance: 1545.3m
+Node 35 ENU(385.91,-764.76,4.74) → GW2 distance: 1516.9m
+Node 36 ENU(400.10,-789.62,4.78) → GW2 distance: 1488.5m
+Node 37 ENU(414.29,-814.48,4.81) → GW2 distance: 1460.2m
+Node 38 ENU(428.47,-839.34,4.84) → GW2 distance: 1431.8m
+Node 39 ENU(442.66,-864.20,4.87) → GW2 distance: 1403.5m
+Node 40 ENU(456.85,-889.06,4.89) → GW2 distance: 1375.2m
+Node 41 ENU(471.03,-913.92,4.91) → GW2 distance: 1346.9m
+Node 42 ENU(485.22,-938.78,4.93) → GW2 distance: 1318.6m
+Node 43 ENU(499.41,-963.64,4.95) → GW2 distance: 1290.3m
+Node 44 ENU(513.59,-988.50,4.96) → GW2 distance: 1262.1m
+Node 45 ENU(527.78,-1013.36,4.98) → GW2 distance: 1233.8m
+Node 46 ENU(541.97,-1038.22,4.99) → GW2 distance: 1205.6m
+Node 47 ENU(556.15,-1063.08,4.99) → GW2 distance: 1177.4m
+Node 48 ENU(570.34,-1087.94,5.00) → GW2 distance: 1149.2m
+Node 49 ENU(584.52,-1112.80,5.00) → GW2 distance: 1121.0m
+Node 50 ENU(597.73,-1140.34,5.00) → GW2 distance: 1090.7m
+Node 51 ENU(609.96,-1170.55,5.00) → GW2 distance: 1058.1m
+Node 52 ENU(622.20,-1200.76,4.99) → GW2 distance: 1025.6m
+Node 53 ENU(634.43,-1230.98,4.99) → GW2 distance: 993.0m
+Node 54 ENU(646.66,-1261.19,4.98) → GW2 distance: 960.5m
+Node 55 ENU(658.89,-1291.41,4.96) → GW2 distance: 927.9m
+Node 56 ENU(671.12,-1321.62,4.95) → GW2 distance: 895.4m
+Node 57 ENU(683.35,-1351.83,4.93) → GW2 distance: 862.9m
+Node 58 ENU(695.58,-1382.05,4.91) → GW2 distance: 830.4m
+Node 59 ENU(707.81,-1412.26,4.89) → GW2 distance: 797.8m
+Node 60 ENU(720.05,-1442.47,4.87) → GW2 distance: 765.3m
+Node 61 ENU(732.28,-1472.69,4.84) → GW2 distance: 732.8m
+Node 62 ENU(744.51,-1502.90,4.81) → GW2 distance: 700.3m
+Node 63 ENU(756.74,-1533.11,4.78) → GW2 distance: 667.8m
+Node 64 ENU(768.97,-1563.33,4.74) → GW2 distance: 635.3m
+Node 65 ENU(781.20,-1593.54,4.71) → GW2 distance: 602.9m
+Node 66 ENU(793.43,-1623.75,4.67) → GW2 distance: 570.4m
+Node 67 ENU(805.66,-1653.97,4.63) → GW2 distance: 538.0m
+Node 68 ENU(817.90,-1684.18,4.58) → GW2 distance: 505.6m
+Node 69 ENU(830.13,-1714.40,4.53) → GW2 distance: 473.2m
+Node 70 ENU(842.36,-1744.61,4.49) → GW2 distance: 440.8m
+Node 71 ENU(854.59,-1774.82,4.43) → GW2 distance: 408.5m
+Node 72 ENU(866.82,-1805.04,4.38) → GW2 distance: 376.2m
+Node 73 ENU(879.05,-1835.25,4.32) → GW2 distance: 344.0m
+Node 74 ENU(891.28,-1865.46,4.27) → GW2 distance: 311.9m
+Node 75 ENU(899.01,-1894.78,4.20) → GW2 distance: 281.6m
+Node 76 ENU(905.24,-1923.79,4.14) → GW2 distance: 252.0m
+Node 77 ENU(911.47,-1952.81,4.07) → GW2 distance: 222.3m
+Node 78 ENU(917.70,-1981.82,4.01) → GW2 distance: 192.6m
+Node 79 ENU(923.93,-2010.84,3.93) → GW2 distance: 162.9m
+Node 80 ENU(930.16,-2039.86,3.86) → GW2 distance: 133.3m
+Node 81 ENU(936.39,-2068.87,3.79) → GW2 distance: 103.6m
+Node 82 ENU(942.62,-2097.89,3.71) → GW2 distance: 74.0m
+Node 83 ENU(948.85,-2126.90,3.63) → GW2 distance: 44.4m
+Node 84 ENU(955.08,-2155.92,3.54) → GW2 distance: 15.1m
+Node 85 ENU(961.31,-2184.93,3.46) → GW2 distance: 15.7m
+Node 86 ENU(967.54,-2213.95,3.37) → GW2 distance: 45.0m
+Node 87 ENU(973.77,-2242.96,3.28) → GW2 distance: 74.6m
+Node 88 ENU(980.00,-2271.98,3.19) → GW2 distance: 104.3m
+Node 89 ENU(986.23,-2301.00,3.09) → GW2 distance: 133.9m
+Node 90 ENU(992.46,-2330.01,2.99) → GW2 distance: 163.6m
+Node 91 ENU(998.69,-2359.03,2.89) → GW2 distance: 193.3m
+Node 92 ENU(1004.92,-2388.04,2.79) → GW2 distance: 222.9m
+Node 93 ENU(1011.15,-2417.06,2.68) → GW2 distance: 252.6m
+Node 94 ENU(1017.38,-2446.07,2.58) → GW2 distance: 282.3m
+Node 95 ENU(1023.61,-2475.09,2.47) → GW2 distance: 312.0m
+Node 96 ENU(1029.84,-2504.10,2.35) → GW2 distance: 341.6m
+Node 97 ENU(1036.07,-2533.12,2.24) → GW2 distance: 371.3m
+Node 98 ENU(1042.30,-2562.14,2.12) → GW2 distance: 401.0m
+Node 99 ENU(1048.53,-2591.15,2.00) → GW2 distance: 430.7m
+Distances to gateway computed CORRECTLY.
+Furthest end device (max min-distance) is index 68 at 5e+02m
+Devices setup complete.
+Server setup complete.
+Applications created.
+Setting up energy model...
+Energy model installed.
+Energy traces connected.
+Setting spreading factors automatically using ns-3 ADR...
+Node 0 AUTO-ASSIGNED SF7 (DR5) ENU(0.00,0.00,2.00) Dist:376.1m
+Node 1 AUTO-ASSIGNED SF7 (DR5) ENU(9.72,-20.60,2.12) Dist:353.3m
+Node 2 AUTO-ASSIGNED SF7 (DR5) ENU(19.43,-41.21,2.24) Dist:330.6m
+Node 3 AUTO-ASSIGNED SF7 (DR5) ENU(29.15,-61.81,2.35) Dist:307.8m
+Node 4 AUTO-ASSIGNED SF7 (DR5) ENU(38.87,-82.42,2.47) Dist:285.0m
+Node 5 AUTO-ASSIGNED SF7 (DR5) ENU(48.59,-103.02,2.58) Dist:262.2m
+Node 6 AUTO-ASSIGNED SF7 (DR5) ENU(58.30,-123.62,2.68) Dist:239.4m
+Node 7 AUTO-ASSIGNED SF7 (DR5) ENU(68.02,-144.23,2.79) Dist:216.7m
+Node 8 AUTO-ASSIGNED SF7 (DR5) ENU(77.74,-164.83,2.89) Dist:193.9m
+Node 9 AUTO-ASSIGNED SF7 (DR5) ENU(87.46,-185.44,2.99) Dist:171.1m
+Node 10 AUTO-ASSIGNED SF7 (DR5) ENU(97.17,-206.04,3.09) Dist:148.4m
+Node 11 AUTO-ASSIGNED SF7 (DR5) ENU(106.89,-226.65,3.19) Dist:125.6m
+Node 12 AUTO-ASSIGNED SF7 (DR5) ENU(116.61,-247.25,3.28) Dist:102.8m
+Node 13 AUTO-ASSIGNED SF7 (DR5) ENU(126.32,-267.85,3.37) Dist:80.1m
+Node 14 AUTO-ASSIGNED SF7 (DR5) ENU(136.04,-288.46,3.46) Dist:57.3m
+Node 15 AUTO-ASSIGNED SF7 (DR5) ENU(145.76,-309.06,3.54) Dist:34.7m
+Node 16 AUTO-ASSIGNED SF7 (DR5) ENU(155.48,-329.67,3.63) Dist:12.5m
+Node 17 AUTO-ASSIGNED SF7 (DR5) ENU(165.19,-350.27,3.71) Dist:12.1m
+Node 18 AUTO-ASSIGNED SF7 (DR5) ENU(174.91,-370.87,3.79) Dist:34.3m
+Node 19 AUTO-ASSIGNED SF7 (DR5) ENU(184.63,-391.48,3.86) Dist:56.9m
+Node 20 AUTO-ASSIGNED SF7 (DR5) ENU(194.34,-412.08,3.93) Dist:79.7m
+Node 21 AUTO-ASSIGNED SF7 (DR5) ENU(204.06,-432.69,4.01) Dist:102.4m
+Node 22 AUTO-ASSIGNED SF7 (DR5) ENU(213.78,-453.29,4.07) Dist:125.2m
+Node 23 AUTO-ASSIGNED SF7 (DR5) ENU(223.50,-473.90,4.14) Dist:147.9m
+Node 24 AUTO-ASSIGNED SF7 (DR5) ENU(233.21,-494.50,4.20) Dist:170.7m
+Node 25 AUTO-ASSIGNED SF7 (DR5) ENU(244.05,-516.17,4.27) Dist:194.9m
+Node 26 AUTO-ASSIGNED SF7 (DR5) ENU(258.24,-541.03,4.32) Dist:223.4m
+Node 27 AUTO-ASSIGNED SF7 (DR5) ENU(272.42,-565.89,4.38) Dist:252.0m
+Node 28 AUTO-ASSIGNED SF7 (DR5) ENU(286.61,-590.75,4.43) Dist:280.5m
+Node 29 AUTO-ASSIGNED SF7 (DR5) ENU(300.79,-615.61,4.49) Dist:309.1m
+Node 30 AUTO-ASSIGNED SF7 (DR5) ENU(314.98,-640.47,4.53) Dist:337.7m
+Node 31 AUTO-ASSIGNED SF7 (DR5) ENU(329.17,-665.33,4.58) Dist:366.2m
+Node 32 AUTO-ASSIGNED SF7 (DR5) ENU(343.35,-690.19,4.63) Dist:394.8m
+Node 33 AUTO-ASSIGNED SF7 (DR5) ENU(357.54,-715.05,4.67) Dist:423.4m
+Node 34 AUTO-ASSIGNED SF7 (DR5) ENU(371.73,-739.90,4.71) Dist:452.0m
+Node 35 AUTO-ASSIGNED SF7 (DR5) ENU(385.91,-764.76,4.74) Dist:480.6m
+Node 36 AUTO-ASSIGNED SF8 (DR4) ENU(400.10,-789.62,4.78) Dist:509.2m
+Node 37 AUTO-ASSIGNED SF8 (DR4) ENU(414.29,-814.48,4.81) Dist:537.8m
+Node 38 AUTO-ASSIGNED SF7 (DR5) ENU(428.47,-839.34,4.84) Dist:566.4m
+Node 39 AUTO-ASSIGNED SF7 (DR5) ENU(442.66,-864.20,4.87) Dist:595.1m
+Node 40 AUTO-ASSIGNED SF7 (DR5) ENU(456.85,-889.06,4.89) Dist:623.7m
+Node 41 AUTO-ASSIGNED SF7 (DR5) ENU(471.03,-913.92,4.91) Dist:652.3m
+Node 42 AUTO-ASSIGNED SF7 (DR5) ENU(485.22,-938.78,4.93) Dist:680.9m
+Node 43 AUTO-ASSIGNED SF7 (DR5) ENU(499.41,-963.64,4.95) Dist:709.5m
+Node 44 AUTO-ASSIGNED SF7 (DR5) ENU(513.59,-988.50,4.96) Dist:738.1m
+Node 45 AUTO-ASSIGNED SF7 (DR5) ENU(527.78,-1013.36,4.98) Dist:766.7m
+Node 46 AUTO-ASSIGNED SF7 (DR5) ENU(541.97,-1038.22,4.99) Dist:795.3m
+Node 47 AUTO-ASSIGNED SF7 (DR5) ENU(556.15,-1063.08,4.99) Dist:824.0m
+Node 48 AUTO-ASSIGNED SF7 (DR5) ENU(570.34,-1087.94,5.00) Dist:852.6m
+Node 49 AUTO-ASSIGNED SF7 (DR5) ENU(584.52,-1112.80,5.00) Dist:881.2m
+Node 50 AUTO-ASSIGNED SF7 (DR5) ENU(597.73,-1140.34,5.00) Dist:911.7m
+Node 51 AUTO-ASSIGNED SF7 (DR5) ENU(609.96,-1170.55,5.00) Dist:944.1m
+Node 52 AUTO-ASSIGNED SF7 (DR5) ENU(622.20,-1200.76,4.99) Dist:976.5m
+Node 53 AUTO-ASSIGNED SF7 (DR5) ENU(634.43,-1230.98,4.99) Dist:1008.9m
+Node 54 AUTO-ASSIGNED SF7 (DR5) ENU(646.66,-1261.19,4.98) Dist:1041.4m
+Node 55 AUTO-ASSIGNED SF7 (DR5) ENU(658.89,-1291.41,4.96) Dist:1073.8m
+Node 56 AUTO-ASSIGNED SF7 (DR5) ENU(671.12,-1321.62,4.95) Dist:1106.3m
+Node 57 AUTO-ASSIGNED SF7 (DR5) ENU(683.35,-1351.83,4.93) Dist:1138.7m
+Node 58 AUTO-ASSIGNED SF7 (DR5) ENU(695.58,-1382.05,4.91) Dist:1171.2m
+Node 59 AUTO-ASSIGNED SF7 (DR5) ENU(707.81,-1412.26,4.89) Dist:1203.7m
+Node 60 AUTO-ASSIGNED SF7 (DR5) ENU(720.05,-1442.47,4.87) Dist:1236.2m
+Node 61 AUTO-ASSIGNED SF7 (DR5) ENU(732.28,-1472.69,4.84) Dist:1268.6m
+Node 62 AUTO-ASSIGNED SF7 (DR5) ENU(744.51,-1502.90,4.81) Dist:1301.1m
+Node 63 AUTO-ASSIGNED SF7 (DR5) ENU(756.74,-1533.11,4.78) Dist:1333.6m
+Node 64 AUTO-ASSIGNED SF7 (DR5) ENU(768.97,-1563.33,4.74) Dist:1366.1m
+Node 65 AUTO-ASSIGNED SF7 (DR5) ENU(781.20,-1593.54,4.71) Dist:1398.6m
+Node 66 AUTO-ASSIGNED SF8 (DR4) ENU(793.43,-1623.75,4.67) Dist:1431.2m
+Node 67 AUTO-ASSIGNED SF7 (DR5) ENU(805.66,-1653.97,4.63) Dist:1463.7m
+Node 68 AUTO-ASSIGNED SF8 (DR4) ENU(817.90,-1684.18,4.58) Dist:1496.2m
+Node 69 AUTO-ASSIGNED SF7 (DR5) ENU(830.13,-1714.40,4.53) Dist:1528.7m
+Node 70 AUTO-ASSIGNED SF7 (DR5) ENU(842.36,-1744.61,4.49) Dist:1561.2m
+Node 71 AUTO-ASSIGNED SF7 (DR5) ENU(854.59,-1774.82,4.43) Dist:1593.8m
+Node 72 AUTO-ASSIGNED SF7 (DR5) ENU(866.82,-1805.04,4.38) Dist:1626.3m
+Node 73 AUTO-ASSIGNED SF7 (DR5) ENU(879.05,-1835.25,4.32) Dist:1658.8m
+Node 74 AUTO-ASSIGNED SF7 (DR5) ENU(891.28,-1865.46,4.27) Dist:1691.4m
+Node 75 AUTO-ASSIGNED SF7 (DR5) ENU(899.01,-1894.78,4.20) Dist:1721.2m
+Node 76 AUTO-ASSIGNED SF7 (DR5) ENU(905.24,-1923.79,4.14) Dist:1750.1m
+Node 77 AUTO-ASSIGNED SF7 (DR5) ENU(911.47,-1952.81,4.07) Dist:1779.0m
+Node 78 AUTO-ASSIGNED SF7 (DR5) ENU(917.70,-1981.82,4.01) Dist:1808.0m
+Node 79 AUTO-ASSIGNED SF7 (DR5) ENU(923.93,-2010.84,3.93) Dist:1836.9m
+Node 80 AUTO-ASSIGNED SF7 (DR5) ENU(930.16,-2039.86,3.86) Dist:1865.9m
+Node 81 AUTO-ASSIGNED SF7 (DR5) ENU(936.39,-2068.87,3.79) Dist:1895.0m
+Node 82 AUTO-ASSIGNED SF7 (DR5) ENU(942.62,-2097.89,3.71) Dist:1924.0m
+Node 83 AUTO-ASSIGNED SF7 (DR5) ENU(948.85,-2126.90,3.63) Dist:1953.1m
+Node 84 AUTO-ASSIGNED SF7 (DR5) ENU(955.08,-2155.92,3.54) Dist:1982.2m
+Node 85 AUTO-ASSIGNED SF7 (DR5) ENU(961.31,-2184.93,3.46) Dist:2011.3m
+Node 86 AUTO-ASSIGNED SF7 (DR5) ENU(967.54,-2213.95,3.37) Dist:2040.4m
+Node 87 AUTO-ASSIGNED SF7 (DR5) ENU(973.77,-2242.96,3.28) Dist:2069.5m
+Node 88 AUTO-ASSIGNED SF7 (DR5) ENU(980.00,-2271.98,3.19) Dist:2098.6m
+Node 89 AUTO-ASSIGNED SF7 (DR5) ENU(986.23,-2301.00,3.09) Dist:2127.8m
+Node 90 AUTO-ASSIGNED SF7 (DR5) ENU(992.46,-2330.01,2.99) Dist:2157.0m
+Node 91 AUTO-ASSIGNED SF7 (DR5) ENU(998.69,-2359.03,2.89) Dist:2186.2m
+Node 92 AUTO-ASSIGNED SF7 (DR5) ENU(1004.92,-2388.04,2.79) Dist:2215.4m
+Node 93 AUTO-ASSIGNED SF7 (DR5) ENU(1011.15,-2417.06,2.68) Dist:2244.6m
+Node 94 AUTO-ASSIGNED SF7 (DR5) ENU(1017.38,-2446.07,2.58) Dist:2273.8m
+Node 95 AUTO-ASSIGNED SF7 (DR5) ENU(1023.61,-2475.09,2.47) Dist:2303.1m
+Node 96 AUTO-ASSIGNED SF7 (DR5) ENU(1029.84,-2504.10,2.35) Dist:2332.3m
+Node 97 AUTO-ASSIGNED SF7 (DR5) ENU(1036.07,-2533.12,2.24) Dist:2361.6m
+Node 98 AUTO-ASSIGNED SF7 (DR5) ENU(1042.30,-2562.14,2.12) Dist:2390.8m
+Node 99 AUTO-ASSIGNED SF7 (DR5) ENU(1048.53,-2591.15,2.00) Dist:2420.1m
+SF assignments saved to node_sf_assignments.csv
+Automatic SF assignment complete.
+===============================================
+=== SIMULATION COMPLETE ===
+===============================================
+Packets sent vs received per DR (SF7 -> SF12):
+DR5 (SF7): Sent = 48931, Received = 58730
+DR4 (SF8): Sent = 3009, Received = 5769
+DR3 (SF9): Sent = 0, Received = 0
+DR2 (SF10): Sent = 0, Received = 0
+DR1 (SF11): Sent = 0, Received = 0
+DR0 (SF12): Sent = 0, Received = 0
+===============================================
+Successful transmission to Gateway per end device:
+Node 0 (SF7): 96 packets received successfully by GW.
+Node 1 (SF7): 96 packets received successfully by GW.
+Node 2 (SF7): 96 packets received successfully by GW.
+Node 3 (SF7): 96 packets received successfully by GW.
+Node 4 (SF7): 96 packets received successfully by GW.
+Node 5 (SF7): 96 packets received successfully by GW.
+Node 6 (SF7): 96 packets received successfully by GW.
+Node 7 (SF7): 96 packets received successfully by GW.
+Node 8 (SF7): 96 packets received successfully by GW.
+Node 9 (SF7): 96 packets received successfully by GW.
+Node 10 (SF7): 96 packets received successfully by GW.
+Node 11 (SF7): 96 packets received successfully by GW.
+Node 12 (SF7): 96 packets received successfully by GW.
+Node 13 (SF7): 96 packets received successfully by GW.
+Node 14 (SF7): 96 packets received successfully by GW.
+Node 15 (SF7): 96 packets received successfully by GW.
+Node 16 (SF7): 96 packets received successfully by GW.
+Node 17 (SF7): 96 packets received successfully by GW.
+Node 18 (SF7): 96 packets received successfully by GW.
+Node 19 (SF7): 96 packets received successfully by GW.
+Node 20 (SF7): 96 packets received successfully by GW.
+Node 21 (SF7): 96 packets received successfully by GW.
+Node 22 (SF7): 96 packets received successfully by GW.
+Node 23 (SF7): 96 packets received successfully by GW.
+Node 24 (SF7): 96 packets received successfully by GW.
+Node 25 (SF7): 96 packets received successfully by GW.
+Node 26 (SF7): 96 packets received successfully by GW.
+Node 27 (SF7): 96 packets received successfully by GW.
+Node 28 (SF7): 96 packets received successfully by GW.
+Node 29 (SF7): 96 packets received successfully by GW.
+Node 30 (SF7): 96 packets received successfully by GW.
+Node 31 (SF7): 96 packets received successfully by GW.
+Node 32 (SF7): 96 packets received successfully by GW.
+Node 33 (SF7): 96 packets received successfully by GW.
+Node 34 (SF7): 96 packets received successfully by GW.
+Node 35 (SF7): 96 packets received successfully by GW.
+Node 36 (SF8): 96 packets received successfully by GW.
+Node 37 (SF8): 96 packets received successfully by GW.
+Node 38 (SF7): 96 packets received successfully by GW.
+Node 39 (SF7): 96 packets received successfully by GW.
+Node 40 (SF7): 96 packets received successfully by GW.
+Node 41 (SF7): 96 packets received successfully by GW.
+Node 42 (SF7): 96 packets received successfully by GW.
+Node 43 (SF7): 96 packets received successfully by GW.
+Node 44 (SF7): 96 packets received successfully by GW.
+Node 45 (SF7): 96 packets received successfully by GW.
+Node 46 (SF7): 96 packets received successfully by GW.
+Node 47 (SF7): 96 packets received successfully by GW.
+Node 48 (SF7): 96 packets received successfully by GW.
+Node 49 (SF7): 96 packets received successfully by GW.
+Node 50 (SF7): 96 packets received successfully by GW.
+Node 51 (SF7): 96 packets received successfully by GW.
+Node 52 (SF7): 96 packets received successfully by GW.
+Node 53 (SF7): 96 packets received successfully by GW.
+Node 54 (SF7): 96 packets received successfully by GW.
+Node 55 (SF7): 96 packets received successfully by GW.
+Node 56 (SF7): 96 packets received successfully by GW.
+Node 57 (SF7): 96 packets received successfully by GW.
+Node 58 (SF7): 96 packets received successfully by GW.
+Node 59 (SF7): 96 packets received successfully by GW.
+Node 60 (SF7): 96 packets received successfully by GW.
+Node 61 (SF7): 96 packets received successfully by GW.
+Node 62 (SF7): 96 packets received successfully by GW.
+Node 63 (SF7): 96 packets received successfully by GW.
+Node 64 (SF7): 96 packets received successfully by GW.
+Node 65 (SF7): 96 packets received successfully by GW.
+Node 66 (SF8): 96 packets received successfully by GW.
+Node 67 (SF7): 96 packets received successfully by GW.
+Node 68 (SF8): 96 packets received successfully by GW.
+Node 69 (SF7): 96 packets received successfully by GW.
+Node 70 (SF7): 96 packets received successfully by GW.
+Node 71 (SF7): 96 packets received successfully by GW.
+Node 72 (SF7): 96 packets received successfully by GW.
+Node 73 (SF7): 96 packets received successfully by GW.
+Node 74 (SF7): 96 packets received successfully by GW.
+Node 75 (SF7): 96 packets received successfully by GW.
+Node 76 (SF7): 96 packets received successfully by GW.
+Node 77 (SF7): 96 packets received successfully by GW.
+Node 78 (SF7): 96 packets received successfully by GW.
+Node 79 (SF7): 96 packets received successfully by GW.
+Node 80 (SF7): 96 packets received successfully by GW.
+Node 81 (SF7): 96 packets received successfully by GW.
+Node 82 (SF7): 96 packets received successfully by GW.
+Node 83 (SF7): 96 packets received successfully by GW.
+Node 84 (SF7): 96 packets received successfully by GW.
+Node 85 (SF7): 96 packets received successfully by GW.
+Node 86 (SF7): 96 packets received successfully by GW.
+Node 87 (SF7): 96 packets received successfully by GW.
+Node 88 (SF7): 96 packets received successfully by GW.
+Node 89 (SF7): 96 packets received successfully by GW.
+Node 90 (SF7): 96 packets received successfully by GW.
+Node 91 (SF7): 96 packets received successfully by GW.
+Node 92 (SF7): 96 packets received successfully by GW.
+Node 93 (SF7): 96 packets received successfully by GW.
+Node 94 (SF7): 96 packets received successfully by GW.
+Node 95 (SF7): 96 packets received successfully by GW.
+Node 96 (SF7): 96 packets received successfully by GW.
+Node 97 (SF7): 96 packets received successfully by GW.
+Node 98 (SF7): 96 packets received successfully by GW.
+Node 99 (SF7): 96 packets received successfully by GW.
+================= ACK SUMMARY =================
+Gateway 0 sent 4680 ACKs
+Gateway 1 sent 10968 ACKs
+Gateway 2 sent 12497 ACKs
+==============================================
+Logging energy consumption...
+Total simulation duration: 9e+04 seconds
+
+================= ENERGY SUMMARY =================
+NodeID | Initial(J) | Remaining(J) | Consumed(J)
+--------------------------------------------------
+Node 0 | 10000 | 9982.21 | 17.792
+Node 1 | 10000 | 9981.82 | 18.1848
+Node 2 | 10000 | 9988.72 | 11.2826
+Node 3 | 10000 | 9981.95 | 18.0499
+Node 4 | 10000 | 9987.01 | 12.9934
+Node 5 | 10000 | 9984.85 | 15.1545
+Node 6 | 10000 | 9989.23 | 10.7731
+Node 7 | 10000 | 9982.37 | 17.6304
+Node 8 | 10000 | 9982.41 | 17.5862
+Node 9 | 10000 | 9984.7 | 15.2954
+Node 10 | 10000 | 9983.26 | 16.7352
+Node 11 | 10000 | 9982.15 | 17.8499
+Node 12 | 10000 | 9982 | 18.0011
+Node 13 | 10000 | 9987.91 | 12.0939
+Node 14 | 10000 | 9982.35 | 17.6548
+Node 15 | 10000 | 9982.14 | 17.8617
+Node 16 | 10000 | 9983.81 | 16.1915
+Node 17 | 10000 | 9982.29 | 17.7067
+Node 18 | 10000 | 9985.89 | 14.108
+Node 19 | 10000 | 9990.45 | 9.55098
+Node 20 | 10000 | 9981.86 | 18.1406
+Node 21 | 10000 | 9983.38 | 16.6204
+Node 22 | 10000 | 9981.72 | 18.2766
+Node 23 | 10000 | 9984.47 | 15.5304
+Node 24 | 10000 | 9986.29 | 13.7124
+Node 25 | 10000 | 9982.14 | 17.864
+Node 26 | 10000 | 9982.14 | 17.8599
+Node 27 | 10000 | 9988.9 | 11.095
+Node 28 | 10000 | 9981.72 | 18.2766
+Node 29 | 10000 | 9982.68 | 17.3199
+Node 30 | 10000 | 9986.94 | 13.0639
+Node 31 | 10000 | 9991.66 | 8.34428
+Node 32 | 10000 | 9983.59 | 16.4109
+Node 33 | 10000 | 9994.98 | 5.022
+Node 34 | 10000 | 9988.29 | 11.7145
+Node 35 | 10000 | 9995.42 | 4.58042
+Node 36 | 10000 | 9969.02 | 30.9803
+Node 37 | 10000 | 9968.81 | 31.1894
+Node 38 | 10000 | 9982.05 | 17.9535
+Node 39 | 10000 | 9988.1 | 11.9027
+Node 40 | 10000 | 9994.59 | 5.41136
+Node 41 | 10000 | 9983.66 | 16.3371
+Node 42 | 10000 | 9990.07 | 9.92694
+Node 43 | 10000 | 9982.2 | 17.7954
+Node 44 | 10000 | 9988.99 | 11.0058
+Node 45 | 10000 | 9991.1 | 8.89558
+Node 46 | 10000 | 9986.01 | 13.9859
+Node 47 | 10000 | 9996.1 | 3.90382
+Node 48 | 10000 | 9985.23 | 14.77
+Node 49 | 10000 | 9984.96 | 15.0352
+Node 50 | 10000 | 9994.34 | 5.65953
+Node 51 | 10000 | 9983.57 | 16.4311
+Node 52 | 10000 | 9984.51 | 15.4874
+Node 53 | 10000 | 9986.82 | 13.1847
+Node 54 | 10000 | 9987.13 | 12.8709
+Node 55 | 10000 | 9994.59 | 5.4148
+Node 56 | 10000 | 9985.03 | 14.9659
+Node 57 | 10000 | 9984.81 | 15.1921
+Node 58 | 10000 | 9986.49 | 13.506
+Node 59 | 10000 | 9987.49 | 12.5108
+Node 60 | 10000 | 9991.74 | 8.26457
+Node 61 | 10000 | 9993.02 | 6.97537
+Node 62 | 10000 | 9987.33 | 12.6651
+Node 63 | 10000 | 9986.81 | 13.1931
+Node 64 | 10000 | 9984.24 | 15.7643
+Node 65 | 10000 | 9988.85 | 11.1453
+Node 66 | 10000 | 9970.01 | 29.9887
+Node 67 | 10000 | 9987.75 | 12.2467
+Node 68 | 10000 | 9968.46 | 31.5369
+Node 69 | 10000 | 9992.82 | 7.17766
+Node 70 | 10000 | 9982.24 | 17.7576
+Node 71 | 10000 | 9983.79 | 16.2124
+Node 72 | 10000 | 9992.61 | 7.39141
+Node 73 | 10000 | 9987.96 | 12.0424
+Node 74 | 10000 | 9991.56 | 8.44463
+Node 75 | 10000 | 9985.62 | 14.3841
+Node 76 | 10000 | 9987.52 | 12.4757
+Node 77 | 10000 | 9983.29 | 16.71
+Node 78 | 10000 | 9984.7 | 15.3011
+Node 79 | 10000 | 9991.03 | 8.9721
+Node 80 | 10000 | 9997.02 | 2.97681
+Node 81 | 10000 | 9990.28 | 9.71777
+Node 82 | 10000 | 9983.59 | 16.409
+Node 83 | 10000 | 9996.91 | 3.09187
+Node 84 | 10000 | 9993.04 | 6.95818
+Node 85 | 10000 | 9995.4 | 4.60137
+Node 86 | 10000 | 9996 | 3.99711
+Node 87 | 10000 | 9994.93 | 5.06962
+Node 88 | 10000 | 9982.35 | 17.6537
+Node 89 | 10000 | 9997.02 | 2.97681
+Node 90 | 10000 | 9996.84 | 3.16274
+Node 91 | 10000 | 9994.39 | 5.61251
+Node 92 | 10000 | 9991.38 | 8.62317
+Node 93 | 10000 | 9990.82 | 9.18127
+Node 94 | 10000 | 9983.52 | 16.4843
+Node 95 | 10000 | 9989.93 | 10.0736
+Node 96 | 10000 | 9994.42 | 5.57977
+Node 97 | 10000 | 9981.86 | 18.1383
+Node 98 | 10000 | 9992.27 | 7.72971
+Node 99 | 10000 | 9983.44 | 16.5598
+==================================================
