@@ -1,0 +1,218 @@
+=== Starting LoRaWAN simulation with ENU coordinates ===
+✓ Channel setup complete
+Placed end device 0 at ENU: x=0.0000, y=0.0000, z=35.0000
+Placed end device 1 at ENU: x=24.4920, y=-51.9321, z=37.3990
+Placed end device 2 at ENU: x=48.9841, y=-103.8642, z=39.6980
+Placed end device 3 at ENU: x=73.4761, y=-155.7962, z=41.8971
+Placed end device 4 at ENU: x=97.9681, y=-207.7283, z=43.9963
+Placed end device 5 at ENU: x=245.6358, y=-518.9486, z=54.4919
+Placed end device 6 at ENU: x=274.0942, y=-568.8177, z=55.8913
+Placed end device 7 at ENU: x=302.5525, y=-618.6867, z=57.1908
+Placed end device 8 at ENU: x=331.0109, y=-668.5558, z=58.3903
+Placed end device 9 at ENU: x=359.4693, y=-718.4248, z=59.4898
+Placed end device 10 at ENU: x=530.2194, y=-1017.6391, z=63.9879
+Placed end device 11 at ENU: x=558.6778, y=-1067.5081, z=64.3878
+Placed end device 12 at ENU: x=587.1362, y=-1117.3772, z=64.6876
+Placed end device 13 at ENU: x=609.7704, y=-1170.0712, z=64.8875
+Placed end device 14 at ENU: x=631.3161, y=-1223.2932, z=64.9875
+Placed end device 15 at ENU: x=760.5897, y=-1542.6255, z=63.4881
+Placed end device 16 at ENU: x=782.1354, y=-1595.8476, z=62.8884
+Placed end device 17 at ENU: x=803.6810, y=-1649.0697, z=62.1887
+Placed end device 18 at ENU: x=825.2266, y=-1702.2917, z=61.3890
+Placed end device 19 at ENU: x=846.7722, y=-1755.5138, z=60.4894
+Placed end device 20 at ENU: x=1000.3162, y=-2366.5972, z=43.9963
+Placed end device 21 at ENU: x=1012.3696, y=-2422.7356, z=41.8971
+Placed end device 22 at ENU: x=1024.4230, y=-2478.8739, z=39.6980
+Placed end device 23 at ENU: x=1036.4764, y=-2535.0123, z=37.3990
+Placed end device 24 at ENU: x=1048.5297, y=-2591.1507, z=35.0000
+Placed gateway 0 at 157.4:-324.6:66.49
+Placed gateway 1 at 1019:-2457:66.49
+Placed gateway 2 at 677.7:-1348:66.49
+Placed network server at 157.4:-324.6:66.49
+Mobility installed - positions assigned!
+Computing CORRECT distances to gateway...
+Node 0 ENU(0.00,0.00,35.00) → GW0 distance: 362.1m
+Node 1 ENU(24.49,-51.93,37.40) → GW0 distance: 304.7m
+Node 2 ENU(48.98,-103.86,39.70) → GW0 distance: 247.4m
+Node 3 ENU(73.48,-155.80,41.90) → GW0 distance: 190.1m
+Node 4 ENU(97.97,-207.73,44.00) → GW0 distance: 133.0m
+Node 5 ENU(245.64,-518.95,54.49) → GW0 distance: 213.8m
+Node 6 ENU(274.09,-568.82,55.89) → GW0 distance: 270.9m
+Node 7 ENU(302.55,-618.69,57.19) → GW0 distance: 328.1m
+Node 8 ENU(331.01,-668.56,58.39) → GW0 distance: 385.4m
+Node 9 ENU(359.47,-718.42,59.49) → GW0 distance: 442.7m
+Node 10 ENU(530.22,-1017.64,63.99) → GW0 distance: 786.9m
+Node 11 ENU(558.68,-1067.51,64.39) → GW0 distance: 844.3m
+Node 12 ENU(587.14,-1117.38,64.69) → GW0 distance: 901.7m
+Node 13 ENU(609.77,-1170.07,64.89) → GW0 distance: 958.9m
+Node 14 ENU(631.32,-1223.29,64.99) → GW0 distance: 1016.0m
+Node 15 ENU(760.59,-1542.63,63.49) → GW0 distance: 1359.2m
+Node 16 ENU(782.14,-1595.85,62.89) → GW0 distance: 1416.5m
+Node 17 ENU(803.68,-1649.07,62.19) → GW0 distance: 1473.7m
+Node 18 ENU(825.23,-1702.29,61.39) → GW0 distance: 1531.0m
+Node 19 ENU(846.77,-1755.51,60.49) → GW0 distance: 1588.3m
+Node 20 ENU(1000.32,-2366.60,44.00) → GW0 distance: 2209.2m
+Node 21 ENU(1012.37,-2422.74,41.90) → GW0 distance: 2265.8m
+Node 22 ENU(1024.42,-2478.87,39.70) → GW0 distance: 2322.3m
+Node 23 ENU(1036.48,-2535.01,37.40) → GW0 distance: 2379.0m
+Node 24 ENU(1048.53,-2591.15,35.00) → GW0 distance: 2435.6m
+Node 0 ENU(0.00,0.00,35.00) → GW1 distance: 2660.5m
+Node 1 ENU(24.49,-51.93,37.40) → GW1 distance: 2603.1m
+Node 2 ENU(48.98,-103.86,39.70) → GW1 distance: 2545.7m
+Node 3 ENU(73.48,-155.80,41.90) → GW1 distance: 2488.4m
+Node 4 ENU(97.97,-207.73,44.00) → GW1 distance: 2431.0m
+Node 5 ENU(245.64,-518.95,54.49) → GW1 distance: 2087.0m
+Node 6 ENU(274.09,-568.82,55.89) → GW1 distance: 2030.2m
+Node 7 ENU(302.55,-618.69,57.19) → GW1 distance: 1973.4m
+Node 8 ENU(331.01,-668.56,58.39) → GW1 distance: 1916.6m
+Node 9 ENU(359.47,-718.42,59.49) → GW1 distance: 1859.8m
+Node 10 ENU(530.22,-1017.64,63.99) → GW1 distance: 1520.5m
+Node 11 ENU(558.68,-1067.51,64.39) → GW1 distance: 1464.1m
+Node 12 ENU(587.14,-1117.38,64.69) → GW1 distance: 1407.9m
+Node 13 ENU(609.77,-1170.07,64.89) → GW1 distance: 1350.8m
+Node 14 ENU(631.32,-1223.29,64.99) → GW1 distance: 1293.6m
+Node 15 ENU(760.59,-1542.63,63.49) → GW1 distance: 950.6m
+Node 16 ENU(782.14,-1595.85,62.89) → GW1 distance: 893.5m
+Node 17 ENU(803.68,-1649.07,62.19) → GW1 distance: 836.5m
+Node 18 ENU(825.23,-1702.29,61.39) → GW1 distance: 779.6m
+Node 19 ENU(846.77,-1755.51,60.49) → GW1 distance: 722.7m
+Node 20 ENU(1000.32,-2366.60,44.00) → GW1 distance: 95.4m
+Node 21 ENU(1012.37,-2422.74,41.90) → GW1 distance: 43.0m
+Node 22 ENU(1024.42,-2478.87,39.70) → GW1 distance: 34.8m
+Node 23 ENU(1036.48,-2535.01,37.40) → GW1 distance: 84.7m
+Node 24 ENU(1048.53,-2591.15,35.00) → GW1 distance: 140.5m
+Node 0 ENU(0.00,0.00,35.00) → GW2 distance: 1508.8m
+Node 1 ENU(24.49,-51.93,37.40) → GW2 distance: 1451.4m
+Node 2 ENU(48.98,-103.86,39.70) → GW2 distance: 1393.9m
+Node 3 ENU(73.48,-155.80,41.90) → GW2 distance: 1336.5m
+Node 4 ENU(97.97,-207.73,44.00) → GW2 distance: 1279.1m
+Node 5 ENU(245.64,-518.95,54.49) → GW2 distance: 934.7m
+Node 6 ENU(274.09,-568.82,55.89) → GW2 distance: 877.3m
+Node 7 ENU(302.55,-618.69,57.19) → GW2 distance: 819.9m
+Node 8 ENU(331.01,-668.56,58.39) → GW2 distance: 762.5m
+Node 9 ENU(359.47,-718.42,59.49) → GW2 distance: 705.2m
+Node 10 ENU(530.22,-1017.64,63.99) → GW2 distance: 361.5m
+Node 11 ENU(558.68,-1067.51,64.39) → GW2 distance: 304.4m
+Node 12 ENU(587.14,-1117.38,64.69) → GW2 distance: 247.5m
+Node 13 ENU(609.77,-1170.07,64.89) → GW2 distance: 190.2m
+Node 14 ENU(631.32,-1223.29,64.99) → GW2 distance: 132.8m
+Node 15 ENU(760.59,-1542.63,63.49) → GW2 distance: 211.9m
+Node 16 ENU(782.14,-1595.85,62.89) → GW2 distance: 269.3m
+Node 17 ENU(803.68,-1649.07,62.19) → GW2 distance: 326.7m
+Node 18 ENU(825.23,-1702.29,61.39) → GW2 distance: 384.1m
+Node 19 ENU(846.77,-1755.51,60.49) → GW2 distance: 441.5m
+Node 20 ENU(1000.32,-2366.60,44.00) → GW2 distance: 1069.0m
+Node 21 ENU(1012.37,-2422.74,41.90) → GW2 distance: 1126.2m
+Node 22 ENU(1024.42,-2478.87,39.70) → GW2 distance: 1183.4m
+Node 23 ENU(1036.48,-2535.01,37.40) → GW2 distance: 1240.7m
+Node 24 ENU(1048.53,-2591.15,35.00) → GW2 distance: 1298.0m
+Distances to gateway computed CORRECTLY.
+Furthest end device (max min-distance) is index 9 at 4e+02m
+Devices setup complete.
+Server setup complete.
+Applications created.
+Setting up energy model...
+Energy model installed.
+Energy traces connected.
+Setting spreading factors automatically using ns-3 ADR...
+Node 0 AUTO-ASSIGNED SF7 (DR5) ENU(0.00,0.00,35.00) Dist:362.1m
+Node 1 AUTO-ASSIGNED SF7 (DR5) ENU(24.49,-51.93,37.40) Dist:304.7m
+Node 2 AUTO-ASSIGNED SF7 (DR5) ENU(48.98,-103.86,39.70) Dist:247.4m
+Node 3 AUTO-ASSIGNED SF7 (DR5) ENU(73.48,-155.80,41.90) Dist:190.1m
+Node 4 AUTO-ASSIGNED SF7 (DR5) ENU(97.97,-207.73,44.00) Dist:133.0m
+Node 5 AUTO-ASSIGNED SF7 (DR5) ENU(245.64,-518.95,54.49) Dist:213.8m
+Node 6 AUTO-ASSIGNED SF7 (DR5) ENU(274.09,-568.82,55.89) Dist:270.9m
+Node 7 AUTO-ASSIGNED SF7 (DR5) ENU(302.55,-618.69,57.19) Dist:328.1m
+Node 8 AUTO-ASSIGNED SF7 (DR5) ENU(331.01,-668.56,58.39) Dist:385.4m
+Node 9 AUTO-ASSIGNED SF8 (DR4) ENU(359.47,-718.42,59.49) Dist:442.7m
+Node 10 AUTO-ASSIGNED SF7 (DR5) ENU(530.22,-1017.64,63.99) Dist:786.9m
+Node 11 AUTO-ASSIGNED SF7 (DR5) ENU(558.68,-1067.51,64.39) Dist:844.3m
+Node 12 AUTO-ASSIGNED SF7 (DR5) ENU(587.14,-1117.38,64.69) Dist:901.7m
+Node 13 AUTO-ASSIGNED SF7 (DR5) ENU(609.77,-1170.07,64.89) Dist:958.9m
+Node 14 AUTO-ASSIGNED SF7 (DR5) ENU(631.32,-1223.29,64.99) Dist:1016.0m
+Node 15 AUTO-ASSIGNED SF7 (DR5) ENU(760.59,-1542.63,63.49) Dist:1359.2m
+Node 16 AUTO-ASSIGNED SF7 (DR5) ENU(782.14,-1595.85,62.89) Dist:1416.5m
+Node 17 AUTO-ASSIGNED SF7 (DR5) ENU(803.68,-1649.07,62.19) Dist:1473.7m
+Node 18 AUTO-ASSIGNED SF7 (DR5) ENU(825.23,-1702.29,61.39) Dist:1531.0m
+Node 19 AUTO-ASSIGNED SF8 (DR4) ENU(846.77,-1755.51,60.49) Dist:1588.3m
+Node 20 AUTO-ASSIGNED SF7 (DR5) ENU(1000.32,-2366.60,44.00) Dist:2209.2m
+Node 21 AUTO-ASSIGNED SF7 (DR5) ENU(1012.37,-2422.74,41.90) Dist:2265.8m
+Node 22 AUTO-ASSIGNED SF7 (DR5) ENU(1024.42,-2478.87,39.70) Dist:2322.3m
+Node 23 AUTO-ASSIGNED SF7 (DR5) ENU(1036.48,-2535.01,37.40) Dist:2379.0m
+Node 24 AUTO-ASSIGNED SF7 (DR5) ENU(1048.53,-2591.15,35.00) Dist:2435.6m
+SF assignments saved to node_sf_assignments.csv
+Automatic SF assignment complete.
+===============================================
+=== SIMULATION COMPLETE ===
+===============================================
+Packets sent vs received per DR (SF7 -> SF12):
+DR5 (SF7): Sent = 9900, Received = 10232
+DR4 (SF8): Sent = 1536, Received = 2727
+DR3 (SF9): Sent = 0, Received = 0
+DR2 (SF10): Sent = 0, Received = 0
+DR1 (SF11): Sent = 0, Received = 0
+DR0 (SF12): Sent = 0, Received = 0
+===============================================
+Successful transmission to Gateway per end device:
+Node 0 (SF7): 96 packets received successfully by GW.
+Node 1 (SF7): 96 packets received successfully by GW.
+Node 2 (SF7): 96 packets received successfully by GW.
+Node 3 (SF7): 96 packets received successfully by GW.
+Node 4 (SF7): 96 packets received successfully by GW.
+Node 5 (SF7): 96 packets received successfully by GW.
+Node 6 (SF7): 96 packets received successfully by GW.
+Node 7 (SF7): 96 packets received successfully by GW.
+Node 8 (SF7): 96 packets received successfully by GW.
+Node 9 (SF8): 96 packets received successfully by GW.
+Node 10 (SF7): 96 packets received successfully by GW.
+Node 11 (SF7): 96 packets received successfully by GW.
+Node 12 (SF7): 96 packets received successfully by GW.
+Node 13 (SF7): 96 packets received successfully by GW.
+Node 14 (SF7): 96 packets received successfully by GW.
+Node 15 (SF7): 96 packets received successfully by GW.
+Node 16 (SF7): 96 packets received successfully by GW.
+Node 17 (SF7): 96 packets received successfully by GW.
+Node 18 (SF7): 96 packets received successfully by GW.
+Node 19 (SF8): 96 packets received successfully by GW.
+Node 20 (SF7): 96 packets received successfully by GW.
+Node 21 (SF7): 96 packets received successfully by GW.
+Node 22 (SF7): 96 packets received successfully by GW.
+Node 23 (SF7): 96 packets received successfully by GW.
+Node 24 (SF7): 96 packets received successfully by GW.
+================= ACK SUMMARY =================
+Gateway 0 sent 1475 ACKs
+Gateway 1 sent 5450 ACKs
+Gateway 2 sent 3234 ACKs
+==============================================
+Logging energy consumption...
+Total simulation duration: 9e+04 seconds
+
+================= ENERGY SUMMARY =================
+NodeID | Initial(J) | Remaining(J) | Consumed(J)
+--------------------------------------------------
+Node 0 | 10000 | 9991.15 | 8.85246
+Node 1 | 10000 | 9986.89 | 13.1073
+Node 2 | 10000 | 9992.28 | 7.71907
+Node 3 | 10000 | 9981.82 | 18.1836
+Node 4 | 10000 | 9997.23 | 2.76879
+Node 5 | 10000 | 9981.72 | 18.2766
+Node 6 | 10000 | 9986.89 | 13.1073
+Node 7 | 10000 | 9984.66 | 15.3384
+Node 8 | 10000 | 9997.02 | 2.97796
+Node 9 | 10000 | 9968.81 | 31.1894
+Node 10 | 10000 | 9997.07 | 2.93147
+Node 11 | 10000 | 9985.84 | 14.1577
+Node 12 | 10000 | 9988.02 | 11.9819
+Node 13 | 10000 | 9987.54 | 12.4612
+Node 14 | 10000 | 9992.06 | 7.93805
+Node 15 | 10000 | 9986.21 | 13.7947
+Node 16 | 10000 | 9989.92 | 10.0762
+Node 17 | 10000 | 9988.65 | 11.3544
+Node 18 | 10000 | 9987.26 | 12.74
+Node 19 | 10000 | 9968.81 | 31.1894
+Node 20 | 10000 | 9991.42 | 8.58421
+Node 21 | 10000 | 9995.56 | 4.44212
+Node 22 | 10000 | 9994.72 | 5.27879
+Node 23 | 10000 | 9983.19 | 16.8114
+Node 24 | 10000 | 9991.42 | 8.58421
+==================================================
