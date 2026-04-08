@@ -83,8 +83,12 @@ Official website: https://www.nsnam.org/
    ./ns3 --version
 
 ### Running Simulations
-1. Copy your simulation script into: ns-3/scratch/
-2. Run using: ./ns3 run scratch/enddevice
+1. Copy your simulation script into:
+   ```bash
+   ./ns-3/scratch/
+3. Run using:
+    ```bash
+   ./ns3 run scratch/enddevice
 
 ## Output
 The simulation generates:
